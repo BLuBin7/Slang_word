@@ -1,4 +1,4 @@
-package Model;
+package Model.Dict;
 
 
 import java.util.Scanner;
